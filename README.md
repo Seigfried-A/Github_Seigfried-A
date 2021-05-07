@@ -2,4 +2,3 @@
 - 👀 I’m interested in javascript-React.js and Node.js
 - 🌱 I’m currently learning fullstack web development.
 - 💞️ I’m looking to collaborate on any project to help biuld my learning.
-- 📫 How to reach me ...
